@@ -20,15 +20,15 @@ See [official website](https://www.federalreserve.gov/econres/scfindex.htm) for 
             3 = retired/disabled, 4 = out of the labor force and other non-working)
     8.  `income`: Total household income from all sources
     9.  `equity`: Directly or indirectly held equity (stocks)
-    10.  `finassets`: Total household financial wealth
-    11.  `liqassets`: Total household liquid assets
+    10. `finassets`: Total household financial wealth
+    11. `liqassets`: Total household liquid assets
     12. `houses`: Value of primary residence
     13. `business`: Business wealth
     14. `vehicles`: Value of all vehicles (cars, boats, motor homes)
     15. `assets`: Total gross assets
-    16. `mortgages`: Mortgages and HELOCs
+    16. `mortgages`: Mortgages and HELOCs (home equity lines of credit)
     17. `debt`: Total household debt
-    18.  `owner`: Indicator for home ownership
+    18. `owner`: Indicator for home ownership
     19. `weight`: SCF Sampling weight
 
 
