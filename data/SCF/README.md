@@ -26,7 +26,7 @@ See [official website](https://www.federalreserve.gov/econres/scfindex.htm) for 
     13. `business`: Business wealth
     14. `vehicles`: Value of all vehicles (cars, boats, motor homes)
     15. `assets`: Total gross assets
-    16. `mortgages`: Mortgages and HELOCs (home equity lines of credit)
+    16. `mortgages`: Mortgages excluding HELOCs (home equity lines of credit)
     17. `debt`: Total household debt
     18. `owner`: Indicator for home ownership
     19. `weight`: SCF Sampling weight

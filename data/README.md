@@ -22,7 +22,7 @@ See README files in subfolders for documentation and sources.
     5. `YearBuilt`: Original construction date
     6. `YearRemodeled`: Remodel date (same as construction date if no remodeling or additions)
     7. `BuildingType`: Type of dwelling
-    8. `CentralAir`: Central air conditioning
+    8. `CentralAir`: Central air conditioning (string, Y/N)
     9. `LivingArea`: Above grade (ground) living area in square meters
     10. `Bathrooms`: Full bathrooms above grade
     11. `Bedrooms`: Bedrooms above grade (does not include basement bedrooms)
