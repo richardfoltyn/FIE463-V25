@@ -151,7 +151,7 @@ def plot_decision_boundary(ax, x, classifier):
     colors = ['steelblue', 'darkred']
     cmap = ListedColormap(colors)
 
-    ax.contourf(xx1, xx2, y_pred, cmap=cmap, alpha=0.2, zorder=-10)
+    ax.contourf(xx1, xx2, y_pred, cmap=cmap, alpha=0.15, zorder=-10)
     ax.contour(xx1, xx2, y_pred, colors='black', linewidths=0.5, zorder=-5)
     
 
